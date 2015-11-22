@@ -3,7 +3,7 @@
 Notepad++ language/syntax highlighting for Freescale S12X series of MCUs
 
 
-A language for use with Notepad++, which can be downloaded from http://notepad-plus-plus.org/download/v6.3.2.html, to add syntax highlighting for the Freescale S12X series MCU assembly language. 
+A language for use with Notepad++, which can be downloaded from https://notepad-plus-plus.org/download/v6.8.6.html, to add syntax highlighting for the Freescale S12X series MCU assembly language. 
 
 INSTALL:
 
